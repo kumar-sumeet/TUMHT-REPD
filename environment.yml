@@ -2,12 +2,7 @@ name: jupyter_nb
 channels:
   - defaults
 dependencies:
-  - python=3.8.5
   - matplotlib
   - numpy
-  - jupyter_contrib_nbextensions
-  - ipywebrtc
-  - scikit-image
-  - jupyterthemes
 
 
