@@ -1,0 +1,19 @@
+name: jupyter_nb
+channels:
+  - defaults
+dependencies:
+  - python=3.8.5
+  - rise
+  - pandas
+  - matplotlib
+  - plotly
+  - numpy
+  - seaborn
+  - jupyter_contrib_nbextensions
+  - pandas-profiling
+  - ipywebrtc
+  - scikit-image
+  - jupyterthemes
+  - opencv
+  - celluloid
+
